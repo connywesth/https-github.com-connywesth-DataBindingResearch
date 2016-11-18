@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
+
 namespace DataBindingResearch.Views
 {
 	static class Program
