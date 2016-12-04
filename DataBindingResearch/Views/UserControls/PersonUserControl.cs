@@ -11,6 +11,7 @@ using DataBindingResearch.Models;
 
 namespace DataBindingResearch.Views
 {
+
 	public partial class PersonUserControl : UserControl
 	{
 		public Person Person

@@ -12,6 +12,7 @@ namespace DataBindingResearch.Views
 {
 	public partial class TestDetailUserControlForm : Form
 	{
+
 		public TestDetailUserControlForm()
 		{
 			InitializeComponent();

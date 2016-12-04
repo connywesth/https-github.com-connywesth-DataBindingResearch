@@ -16,6 +16,7 @@ namespace DataBindingResearch.Views
 		[STAThread]
 		static void Main()
 		{
+
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			//Application.Run(new TestPersonViewForm());

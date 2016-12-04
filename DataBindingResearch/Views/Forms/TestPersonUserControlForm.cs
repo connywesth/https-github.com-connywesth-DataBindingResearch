@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace DataBindingResearch.Views
 {
+
 	public partial class TestPersonUserControlForm : Form
 	{
 		public TestPersonUserControlForm()

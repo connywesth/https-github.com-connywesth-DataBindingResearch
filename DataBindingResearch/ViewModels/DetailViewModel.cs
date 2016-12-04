@@ -8,6 +8,7 @@ using DataBindingResearch.Models;
 
 namespace DataBindingResearch.ViewModels
 {
+
 	public class DetailViewModel : List<Detail>
 	{
 	}

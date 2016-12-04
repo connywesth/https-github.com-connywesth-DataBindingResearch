@@ -17,6 +17,7 @@ namespace DataBindingResearch.Views
 			InitializeComponent();
 		}
 
+
 		private void personViewToolStripMenuItem_Click(object sender, EventArgs e)
 		{
 			TestPersonViewForm testPersonViewForm = new TestPersonViewForm();

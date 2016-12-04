@@ -132,6 +132,7 @@ namespace DataBindingResearch.Views
 		//	}
 		//}
 
+
 		public DetailUserControl()
 		{
 			InitializeComponent();

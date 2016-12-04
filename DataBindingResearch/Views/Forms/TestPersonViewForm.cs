@@ -11,6 +11,7 @@ using DataBindingResearch.Models;
 
 namespace DataBindingResearch.Views
 {
+
 	public partial class TestPersonViewForm : Form
 	{
 		//Person person;
