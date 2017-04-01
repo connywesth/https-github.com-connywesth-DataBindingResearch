@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ViewModels\DetailViewModel.cs" />
+    <Compile Include="ViewModels\MyICommand.cs" />
     <Compile Include="ViewModels\PersonViewModel.cs" />
     <Compile Include="Views\Forms\TestDetailUserControlForm.cs">
       <SubType>Form</SubType>

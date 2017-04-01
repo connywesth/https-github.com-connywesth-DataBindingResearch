@@ -90,9 +90,9 @@
 			// detailUserControl1
 			// 
 			this.detailUserControl1.Address = "";
-			this.detailUserControl1.DateOfBirth = "den 18 november 2016";
+			this.detailUserControl1.DateOfBirth = "den 4 december 2016";
 			detail1.Address = "";
-			detail1.DateOfBirth = new System.DateTime(2016, 11, 18, 3, 1, 1, 160);
+			detail1.DateOfBirth = new System.DateTime(2016, 12, 4, 3, 29, 53, 191);
 			detail1.FirstName = "";
 			detail1.LastName = "";
 			this.detailUserControl1.detail = detail1;
